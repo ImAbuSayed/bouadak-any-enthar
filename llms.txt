@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bouadak-any-enthar/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Bouadak Any Enthar](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
