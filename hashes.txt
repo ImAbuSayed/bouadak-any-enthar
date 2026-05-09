@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bouadak Any Enthar
+
+This log tracks the cryptographic history and versioning for the song **Bouadak Any Enthar** (bouadak-any-enthar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:05:41.690047 | `v1` | `bf6289920ea24bb40d0f0158110b8aa173c1afa339b84bcaa7b72dd5687aeee9` | `400194439ba1be7611eafe133ca82b4fedd67671b536395e2e29c62cd86cfb5c` | `2026-05-09_bouadak-any-enthar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
